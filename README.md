@@ -7,7 +7,15 @@
 
 - 🔭 I'm currently working on **Devops & AWS**
 
+- 🌱 I’m currently learning **Devops & Multiple Projects**
+
+- 👯 I’m looking to collaborate on **Real Time Projects**
+
+- 🤝 I’m looking for help with **Personal projects**
+
 - 📫 How to reach me **imsandeepak2003@gmail.com**
+
+- ⚡ Fun fact **I'think I Make People Laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
